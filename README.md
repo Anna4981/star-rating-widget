@@ -1,1 +1,1 @@
-# start-rating-widget
+# star-rating-widget
